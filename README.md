@@ -16,7 +16,7 @@ I'm a passionate **DevOps Engineer** and **ITI graduate** focused on building sc
 - **Cloud Platforms:** AWS ☁️
 - **Containers:** Kubernetes | Docker
 - **Automation:** Ansible | Terraform
-- **CI/CD:** Jenkins | GitHub Actions
+- **CI/CD:** Jenkins
 - **Operating Systems:**  CentOS | Redhat
 - **Monitoring:** Prometheus
 
@@ -36,6 +36,7 @@ I'm a passionate **DevOps Engineer** and **ITI graduate** focused on building sc
 
 - **Huawei Certified ICT Associate (HCCDA)**
   Credential ID: **HWENDCTEDA122751**
+  
 - ⏳ **Certified Kubernetes Administrator (CKA)** – *In Progress*
 
 ---
@@ -60,6 +61,8 @@ I'm a passionate **DevOps Engineer** and **ITI graduate** focused on building sc
   <a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" /></a>
+
 </p>
 
 
